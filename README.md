@@ -9,7 +9,7 @@
 7.Contributing
 8.License
 
-https://github.com/YoussefElqursh/Weather_app/blob/master/assets/images/weather_app.png?raw=true # Weather_app
+![Logo](https://github.com/YoussefElqursh/Weather_app/blob/master/assets/images/weather_app.png?raw=true) # Weather_app
 
 The Weather App is a Flutter-based application that provides real-time weather updates for any location. It uses the device's GPS or allows users to manually enter a city name to fetch weather data. The app also supports offline functionality by displaying the last known weather data when there is no internet connection. Additionally, it sends periodic notifications with the latest weather information.
 
